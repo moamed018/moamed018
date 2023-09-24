@@ -1,4 +1,6 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mohamed Magdy </h1>
+<h1 align="center">Hi 👋, I'm Mohamed Magdy </h1>
+
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20developer;learning%20react.js%20and%20python;I%20Love%20CSS%20❤&font=Fira%20Code&center=true&width=440&height=45&color=F0DB4F&vCenter=true&size=22"></a>
@@ -19,6 +21,8 @@
 - 📫 How to reach me **mohamedmagdy01612@gmail.com**
 
 - ⚡ Fun fact **I love Coding, books and movies**
+
+---
 
 ## 🌐 Socials:
 
