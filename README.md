@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mohamed Magdy </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20developer;learning%20react.js%20and%20python;I%20Love%20CSS&font=Fira%20Code&center=true&width=440&height=45&color=0077B5&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20developer;learning%20react.js%20and%20python;I%20Love%20CSS%20❤&font=Fira%20Code&center=true&width=440&height=45&color=F0DB4F&vCenter=true&size=22"></a>
 </p> 
 
-<p align="center" style="max-width: 320px; margin: auto;">
-  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" >
-</p> 
+<div align="center">
+  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="560" >
+</div> 
 
 - 🔭 I’m currently working on **My Portfolio & Moives App**
 
